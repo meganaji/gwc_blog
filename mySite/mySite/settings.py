@@ -25,7 +25,7 @@ SECRET_KEY = '2jyar_6y)0+cjm%3un1cp$g=--fgj4@s!$bjre+1bno_0le5&f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'meganaji@pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'meganaji.pythonanywhere.com']
 
 
 # Application definition
